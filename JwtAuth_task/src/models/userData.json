@@ -1,0 +1,16 @@
+[
+ {
+  "email": "shyam@mail.com",
+  "password": "$2b$10$KG6ys0cGhZI05gNGjoL2/ecS1xj9ShRxk7FzfJEoVqVmKFHAHo8JW"
+ },
+ {
+  "name": "ram",
+  "email": "ram@mail.com",
+  "password": "$2b$10$K956YHRseSzT5T3F6wKiA.ezSDp9UQ7c6j8af2i9NDCTyYwjtKIi6"
+ },
+ {
+  "name": "sank",
+  "email": "sank@mail.com",
+  "password": "$2b$10$9LZT99I70YRRv9Juqw0x1eAS.s.lx.1wsQitzUytC0lf4WUkkp3PS"
+ }
+]

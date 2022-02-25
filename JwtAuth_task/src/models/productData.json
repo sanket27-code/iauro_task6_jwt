@@ -1,0 +1,30 @@
+[
+ {
+  "product": "Laptop",
+  "price": 27
+ },
+ {
+  "product": "Mobile Phone",
+  "price": 45
+ },
+ {
+  "product": "ear phone",
+  "price": 240
+ },
+ {
+  "product": "wall clock",
+  "price": 50
+ },
+ {
+  "product": "knife",
+  "price": 100
+ },
+ {
+  "product": "scale",
+  "price": 3
+ },
+ {
+  "product": "pensil",
+  "price": 2
+ }
+]
